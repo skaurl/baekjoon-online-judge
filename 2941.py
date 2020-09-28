@@ -1,0 +1,11 @@
+import sys
+n = sys.stdin.readline()
+n = n.replace('c=','1')
+n = n.replace('c-','2')
+n = n.replace('dz=','3')
+n = n.replace('d-','4')
+n = n.replace('lj','5')
+n = n.replace('nj','6')
+n = n.replace('s=','7')
+n = n.replace('z=','8')
+print(len(n)-1)
