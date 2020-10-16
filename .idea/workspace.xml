@@ -118,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602554105351</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="practice">
+      <created>1602637409544</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1602637409544</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -126,17 +133,17 @@
     <option name="LAST_COMMIT_MESSAGE" value="practice" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="297" y="46" key="CommitChangelistDialog2" timestamp="1602554105101">
+    <state x="297" y="46" key="CommitChangelistDialog2" timestamp="1602637409314">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="297" y="46" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1602554105101" />
+    <state x="297" y="46" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1602637409314" />
     <state x="144" y="109" key="DiffContextDialog" timestamp="1602431990060">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="144" y="109" key="DiffContextDialog/0.23.1440.877@0.23.1440.877" timestamp="1602431990060" />
-    <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1602554111083">
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1602637413487">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1602554111083" />
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1602637413487" />
   </component>
 </project>
