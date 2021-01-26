@@ -17,6 +17,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -26,13 +28,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601276644286</updated>
-    </task>
-    <task id="LOCAL-00016" summary="practice">
-      <created>1603001159822</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1603001159822</updated>
+      <workItem from="1611465691453" duration="67000" />
     </task>
     <task id="LOCAL-00017" summary="practice">
       <created>1603067092673</created>
@@ -370,21 +366,21 @@
       <option name="project" value="LOCAL" />
       <updated>1611303089198</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="practice">
+      <created>1611465746256</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1611465746257</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="practice" />
     <option name="LAST_COMMIT_MESSAGE" value="practice" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="297" y="46" key="CommitChangelistDialog2" timestamp="1611303088893">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="297" y="46" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1611303088893" />
-    <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1611303091745">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1611303091745" />
   </component>
 </project>
