@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c46a2eea-1739-4af2-a0ee-00229042f81b" name="Default Changelist" comment="" />
+    <list default="true" id="c46a2eea-1739-4af2-a0ee-00229042f81b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +21,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -47,34 +50,17 @@
       <workItem from="1614743849788" duration="41000" />
       <workItem from="1614829558574" duration="42000" />
       <workItem from="1614997443974" duration="34000" />
-    </task>
-    <task id="LOCAL-00032" summary="practice">
-      <created>1604751406757</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1604751406757</updated>
-    </task>
-    <task id="LOCAL-00033" summary="practice">
-      <created>1604829383699</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1604829383699</updated>
-    </task>
-    <task id="LOCAL-00034" summary="practice">
-      <created>1605154060400</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1605154060400</updated>
-    </task>
-    <task id="LOCAL-00035" summary="practice">
-      <created>1605339278648</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1605339278648</updated>
+      <workItem from="1615044097986" duration="34000" />
+      <workItem from="1615721584122" duration="41000" />
+      <workItem from="1615949668236" duration="87000" />
+      <workItem from="1615949767943" duration="43000" />
+      <workItem from="1615949828013" duration="11000" />
+      <workItem from="1615949848830" duration="189000" />
+      <workItem from="1615950041944" duration="19000" />
+      <workItem from="1615950062738" duration="97000" />
+      <workItem from="1615950362835" duration="45000" />
+      <workItem from="1616116364233" duration="63000" />
+      <workItem from="1616116447681" duration="9000" />
     </task>
     <task id="LOCAL-00036" summary="practice">
       <created>1605426153879</created>
@@ -391,7 +377,35 @@
       <option name="project" value="LOCAL" />
       <updated>1614997467549</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="practice">
+      <created>1615044124927</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1615044124927</updated>
+    </task>
+    <task id="LOCAL-00082" summary="practice">
+      <created>1615721616832</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1615721616832</updated>
+    </task>
+    <task id="LOCAL-00083" summary="practice">
+      <created>1615950396469</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1615950396469</updated>
+    </task>
+    <task id="LOCAL-00084" summary="practice">
+      <created>1616116413662</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1616116413662</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
