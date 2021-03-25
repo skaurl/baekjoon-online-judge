@@ -27,4 +27,5 @@ for i in S:
             tmp += i
 
 ans += tmp[::-1][1:]
+
 print(ans)
